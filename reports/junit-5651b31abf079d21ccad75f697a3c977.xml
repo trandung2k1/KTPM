@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="6.294" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-06-26T14:29:52" tests="0" file="cypress\e2e\todo_app\todo_interactions.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="[interactions] Todo app list with a checked task" timestamp="2023-06-26T14:29:52" tests="3" time="6.258" failures="0">
+    <testcase name="[interactions] Todo app list with a checked task can filter for uncompleted tasks" time="1.970" classname="can filter for uncompleted tasks">
+    </testcase>
+    <testcase name="[interactions] Todo app list with a checked task can filter for completed tasks" time="0.593" classname="can filter for completed tasks">
+    </testcase>
+    <testcase name="[interactions] Todo app list with a checked task can delete all completed tasks" time="0.435" classname="can delete all completed tasks">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+# host: https://trandungksnb.testrail.io
+# project: TRCLI Test
+# username: trandungksnb00@gmail.com
+# password: Tranvandung2001@
+# project: TRCLI Test
+# title: Cypress Automated Test Run (Code-first)
+
+trcli -y -h https://trandungksnb00.testrail.io --project "TRCLI Test" --username trandungksnb00@gmail.com --password Tranvandung2001@  parse_junit --title "Automated Tests Run" -f "reports/junit-report.xml"
